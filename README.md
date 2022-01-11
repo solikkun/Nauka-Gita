@@ -1,2 +1,2 @@
 # Nauka Gita
-projekt przykładowy do nauki Gita
+Projekt przykładowy do nauki Gita
