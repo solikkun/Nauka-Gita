@@ -1,0 +1,3 @@
+Jakis przykładowy tekst do nauki branch
+zapomniałam dodać pustą linię na końcu pliku więc to robię
+
